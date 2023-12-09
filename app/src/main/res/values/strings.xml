@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">laundry</string>
+    <string-array name="laundry_types">
+        <item>Cuci Kering</item>
+        <item>Cuci Basah</item>
+        <item>Setrika</item>
+        <!-- Tambahkan jenis laundry lainnya sesuai kebutuhan -->
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+<string name = "Navigation_drawer_open"> Open Navigation Drawer </string>
+    <string name = "Navigation_drawer_close"> Close Navigation Drawer </string>
+</resources>
